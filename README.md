@@ -6,7 +6,7 @@ By combining a **structured SQLite metadata database** for exact statistical que
 
 ---
 
-## 🏛️ System Architecture
+## System Architecture
 
 ```
                                   [ USER QUERY ]
@@ -30,7 +30,7 @@ By combining a **structured SQLite metadata database** for exact statistical que
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 EuroConvectRAG/
